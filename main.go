@@ -66,14 +66,16 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 		method := fullCommand[0][1:]
 
 		switch method {
-		case "r":
+		case "vr":
 			n, _ := strconv.Atoi(fullCommand[1])
 			d, err := strconv.Atoi(fullCommand[2])
 			if err != nil {
 				d = 0
 			}
 			command.VampireRoll(n, d, s, m)
-
+		case "help":
+		default:
+			command.Help()
 		}
 
 	}
