@@ -1,44 +1,31 @@
 package main
 
 import (
-	"flag"
 	"fmt"
-	"math/rand"
 	"os"
 	"os/signal"
 	"strconv"
+	"strings"
 	"syscall"
 
 	"github.com/bwmarrin/discordgo"
+	"github.com/lahyri/VLAD/command"
 )
 
 // Variables used for command line parameters
 var (
-	Token          string
 	Command        string
 	DiceQuantity   int
 	DiceDifficulty int
 )
 
-func init() {
-
-	flag.StringVar(&Token, "t", "", "Bot Token")
-	flag.StringVar(&Command, "cmd", "help", "specifies the command used")
-	flag.IntVar(&DiceQuantity, "dq", 0, "defines the ammount of dices to be rolled")
-	flag.IntVar(&DiceDifficulty, "dd", 0, "defines the difficulty of the test")
-
-	flag.Parse()
-
-	if Token == "" {
-		flag.Usage()
-		os.Exit(1)
-	}
-}
+//Token - Your Discord token
+const Token = "Bot INSERT KEY HERE"
 
 func main() {
 
 	// Create a new Discord session using the provided bot token.
-	dg, err := discordgo.New("Bot " + Token)
+	dg, err := discordgo.New(Token)
 	if err != nil {
 		fmt.Println("error creating Discord session,", err)
 		return
@@ -73,35 +60,22 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 	if m.Author.ID == s.State.User.ID {
 		return
 	}
-	// If the message is "ping" reply with "Pong!"
-	if Command == "!r" {
-		result := ""
-		success := 0
-		critFailure := false
-		for i := 0; i < DiceQuantity; i++ {
-			val := rand.Intn(10)
-			result += strconv.Itoa(val) + " "
-			if val >= DiceDifficulty {
-				success++
-			} else if val == 1 {
-				critFailure = true
-				success--
+	// Detects the "!" to see if the message is a command
+	if m.Content[:1] == "!" {
+		fullCommand := strings.Split(m.Content, " ")
+		method := fullCommand[0][1:]
+
+		switch method {
+		case "r":
+			n, _ := strconv.Atoi(fullCommand[1])
+			d, err := strconv.Atoi(fullCommand[2])
+			if err != nil {
+				d = 0
 			}
-		}
-		s.ChannelMessageSend(m.ChannelID, result)
-		if critFailure && success <= 0 {
-			s.ChannelMessageSend(m.ChannelID, "Critical Failure")
-		} else if success > 0 {
-			response := "You've had " + strconv.Itoa(success) + ("successes")
-			s.ChannelMessageSend(m.ChannelID, response)
-		} else {
-			s.ChannelMessageSend(m.ChannelID, "You've failed.")
+			command.VampireRoll(n, d, s, m)
+
 		}
 
 	}
 
-	// If the message is "pong" reply with "Ping!"
-	if m.Content == "pong" {
-		s.ChannelMessageSend(m.ChannelID, "Ping!")
-	}
 }
