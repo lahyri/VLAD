@@ -44,7 +44,7 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 			}
 		case "help":
 		default:
-			Help()
+			Help(s, m)
 		}
 
 	}

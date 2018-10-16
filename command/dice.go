@@ -9,7 +9,7 @@ import (
 
 //VampireRoll - Generates n d10 rolls and compares them to the difficulty
 func VampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
-	result := ""
+	result := "Rolled: "
 	success := 0
 	critFailure := false
 	had10 := false
@@ -38,12 +38,16 @@ func VampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	}
 }
 
+//DnDRoll - Rolls n d-sided dices, sums them all with b bonus
 func DnDRoll(n, d, b int, s *discordgo.Session, m *discordgo.MessageCreate) {
-	result := ""
+	result := "Rolled: "
 	total := b
 	for i := 0; i < n; i++ {
 		val := rand.Intn(d) + 1
 		result += strconv.Itoa(val) + " "
 		total += val
 	}
+	result += strconv.Itoa(b)
+	result += " = " + strconv.Itoa(total)
+	s.ChannelMessageSend(m.ChannelID, result)
 }
