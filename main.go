@@ -4,8 +4,6 @@ import (
 	"fmt"
 	"os"
 	"os/signal"
-	"strconv"
-	"strings"
 	"syscall"
 
 	"github.com/bwmarrin/discordgo"
@@ -32,7 +30,7 @@ func main() {
 	}
 
 	// Register the messageCreate func as a callback for MessageCreate events.
-	dg.AddHandler(messageCreate)
+	dg.AddHandler(command.CommandHandler)
 
 	// Open a websocket connection to Discord and begin listening.
 	err = dg.Open()
@@ -49,35 +47,4 @@ func main() {
 
 	// Cleanly close down the Discord session.
 	dg.Close()
-}
-
-// This function will be called (due to AddHandler above) every time a new
-// message is created on any channel that the autenticated bot has access to.
-func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
-
-	// Ignore all messages created by the bot itself
-	// This isn't required in this specific example but it's a good practice.
-	if m.Author.ID == s.State.User.ID {
-		return
-	}
-	// Detects the "!" to see if the message is a command
-	if m.Content[:1] == "!" {
-		fullCommand := strings.Split(m.Content, " ")
-		method := fullCommand[0][1:]
-
-		switch method {
-		case "vr":
-			n, _ := strconv.Atoi(fullCommand[1])
-			d, err := strconv.Atoi(fullCommand[2])
-			if err != nil {
-				d = 0
-			}
-			command.VampireRoll(n, d, s, m)
-		case "help":
-		default:
-			command.Help()
-		}
-
-	}
-
 }

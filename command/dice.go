@@ -37,3 +37,13 @@ func VampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
 		s.ChannelMessageSend(m.ChannelID, "You've failed.")
 	}
 }
+
+func DnDRoll(n, d, b int, s *discordgo.Session, m *discordgo.MessageCreate) {
+	result := ""
+	total := b
+	for i := 0; i < n; i++ {
+		val := rand.Intn(d) + 1
+		result += strconv.Itoa(val) + " "
+		total += val
+	}
+}
