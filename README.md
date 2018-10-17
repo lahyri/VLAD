@@ -40,8 +40,8 @@ Feel free to use it and modify it as you want. If you'd like to share any new fu
 
 ## To Do
 
-* Disciplines/Skills/Attributes list
-* Discipline/Skill/Attribute description
+* Skills/Attributes list
+* Skill/Attribute level description
 * More stuff I still have to think about
 
 ## Developed by
