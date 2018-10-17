@@ -24,10 +24,11 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 		switch method {
 		case "vr":
 			n, err1 := strconv.Atoi(fullCommand[1])
-			d, err2 := strconv.Atoi(fullCommand[2])
-			if err2 != nil {
-				d = 0
+			d := 0
+			if len(fullCommand) >= 3 {
+				d, _ = strconv.Atoi(fullCommand[2])
 			}
+
 			if err1 == nil {
 				VampireRoll(n, d, s, m)
 			}
@@ -35,10 +36,11 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 		case "dndr":
 			n, err1 := strconv.Atoi(fullCommand[1])
 			d, err2 := strconv.Atoi(fullCommand[2])
-			b, err3 := strconv.Atoi(fullCommand[3])
-			if err3 != nil {
-				b = 0
+			b := 0
+			if len(fullCommand) >= 4 {
+				b, _ = strconv.Atoi(fullCommand[3])
 			}
+
 			if err1 == nil && err2 == nil {
 				DnDRoll(n, d, b, s, m)
 			}

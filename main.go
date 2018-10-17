@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"os"
 	"os/signal"
 	"syscall"
@@ -10,17 +11,10 @@ import (
 	"github.com/lahyri/VLAD/command"
 )
 
-// Variables used for command line parameters
-var (
-	Command        string
-	DiceQuantity   int
-	DiceDifficulty int
-)
-
-//Token - Your Discord token
-const Token = "Bot INSERT KEY HERE"
-
 func main() {
+	//Your Discord Token
+	coreToken, _ := ioutil.ReadFile("token.txt")
+	Token := "Bot " + string(coreToken)
 
 	// Create a new Discord session using the provided bot token.
 	dg, err := discordgo.New(Token)
