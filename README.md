@@ -28,11 +28,7 @@ If you've done this correctly, you bot should appear online in the server.
 
 ## Commands
 
-To see all the commands available for this bot, just type the message
-
-    !help
-
-in your discord server, and it shall return all the commands and their description of usage.
+To see all the commands available for this bot, just type the command ` !help ` in your discord server, and it shall return all the commands and their description of usage.
 
 ## Contribuiting
 
