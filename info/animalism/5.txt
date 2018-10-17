@@ -1,0 +1,13 @@
+ANIMALISM
+
+••••• Drawing out the Beast
+At this level of Animalism, the Kindred has a keen understanding of the Beast Within. Whenever this predator spirit threatens to overwhelm the vampire's soul and send him into frenzy, he may instead release his feral urges upon another creature. The recipient of the vampire's Beast is instantly overcome by frenzy. This is an unnatural frenzy, however, as the victim is channeling the Kindred's own fury. As such, the vampire's own behavior, expressions and even speech patterns are evident in the subject's savage actions.
+Gangrel and Tzimisce are especially fond of loosing their Beasts on others. Gangrel do so to stir their ghouls into inspired heights of savagery during combat. Tzimisce care less for who receives their Beast than they do for retaining their own composure.
+
+System: The vampire must be in frenzy or close to it to use this power. The player must announce his preferred target (since it must be someone within sight, Drawing Out the Beast cannot he used if the vampire is alone), then roll Manipulation + Self-Control (difficulty 8). Refer to the table below for the results:
+
+1 success	The character transfers the Beast, but unleashes it upon a random individual.
+2 successes	The character is stunned by the effort and may not act next turn, but transfers the Beast successfully.
+3 successes	The character transfers the Beast successfully.
+If the attempt fails, the intensity of the frenzy actually increases. As the character relaxes in expectation of relieving his savage urges, the Beast takes that opportunity to dig deeper. In this case, the frenzy lasts twice as long as normal and is twice as difficult to shrug off; its severity also increases exponentially. Botching this roll is even more catastrophic; the heightened frenzy grows so extreme that not even expending Willpower curbs its duration or effects. The character is a hapless victim to the terrible fury of his Beast.
+If the character leaves the target's presence before the frenzy expends itself, frenzy, the character cannot use or regain Willpower and becomes increasingly lethargic. To recover the Beast, he must find the person who now possesses it (who likely isn't enjoying herself very much) and retrap the Beast. The most effective way to do so is to behave in ways that make the Beast want to return - however, this isn't a guarantee that it will wish to do so. Alternatively, the character can simply kill the host (thus causing the Beast to return to the vampire immediately), but such an act costs at least one point of Humanity.

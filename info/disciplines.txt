@@ -1,0 +1,19 @@
+List Of Disciplines
+
+  - Animalism
+  - Auspex
+  - Celerity
+  - Chimerstry
+  - Dementation
+  - Fortitude
+  - Necromancy
+  - Obfuscate
+  - Obtenebration
+  - Potence
+  - Presence
+  - Protean
+  - Quietus
+  - Serpentis
+  - Thanatosis
+  - Thaumaturgy
+  - Vicissitude

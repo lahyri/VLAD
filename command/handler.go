@@ -45,8 +45,19 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 				DnDRoll(n, d, b, s, m)
 			}
 		case "help":
-		default:
 			Help(s, m)
+
+		case "discipline":
+			l := 0
+			d := "disciplines"
+			if len(fullCommand) >= 2 {
+				d = fullCommand[1]
+				if len(fullCommand) >= 3 {
+					l, _ = strconv.Atoi(fullCommand[2])
+				}
+			}
+
+			Discipline(d, l, s, m)
 		}
 
 	}

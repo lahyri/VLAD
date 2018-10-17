@@ -1,0 +1,14 @@
+ANIMALISM
+
+•• Beckoning
+The vampire's connection to the Beast grows strong enough that he may call out in the voice of a specific type of animal - howling like a wolf, cawing like a raven, etc. This call mystically summons creatures of the chosen type. Since each type of animal has a different call, Beckoning works for only a single species at a time.
+All such animals within earshot are summoned, but maychoose individually whether or not to respond. While the vampire has no control over the beasts who answer, the animals who do are favorably disposed toward him and are at least willing to listen to the Kindred's request.
+
+System: The player rolls Charisma + Survival (difficulty 6) to determine the response to the character's call; consult the table below. Only animals that can hear the cry will respond. If the Storyteller decides no animals of that type are within earshot, the summons goes unanswered.
+The call can be as specific as the player desires. A character could call for all bats in the area, for only the male bats nearby, or for only the albino bat with the notched ear he saw the other night.
+
+1 success	A single animal responds.
+2 successes	One-quarter of the animals within earshot respond.
+3 successes	Half of the animals respond.
+4 successes	Most of the animals respond.
+5 successes	All of the animals respond.
