@@ -1,0 +1,8 @@
+PRESENCE
+
+•• Dread Gaze
+While all Kindred can frighten others by physically revealing their true vampiric natures - baring claws and fangs, glaring with malevolence, hissing loudly with malice - this power focuses these elements to insanely terrifying levels. Dread Gaze engenders unbearable terror in its victims, stupefying them into madness, immobility or reckless flight. Even the most stalwart individual will fall back from the vampire's horrific visage.
+
+System: The player rolls Charisma + Intimidation (difficulty of the victim's Wits + Courage). Success indicates the victim is cowed, while failure means the target is startled but not terrified by the sight. Three or more successes means he runs away in abject fear; victims who have nowhere to run claw at the walls, hoping to dig a way out rather than face the vampire. Moreover, each success subtracts one from the target's action dice pools next turn.
+The character may attempt Dread Gaze once per turn, though she may also perform it as an extended action, adding her successes in order to subjugate the target completely. Once the target loses enough dice that he cannot perform any action, he's so shaken and terrified that he curls up on the ground and weeps. Failure during the extended action means the attempt falters. The character loses all her collected successes and can start over next turn, while the victim may act normally again.
+A botch at any time indicates the target is not at all impressed - perhaps even finding the vampire's antics comical - and remains immune to any further uses of Presence by the character for the rest of the story.

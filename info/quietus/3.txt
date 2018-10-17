@@ -1,0 +1,8 @@
+QUIETUS
+
+••• Dagon's Call
+This terrible and recently rediscovered power allows an Assamite to drown her target in his own blood. By concentrating, the Assamite bursts her target's blood vessels and fills his lungs with vitae that proceeds to strangle him from within. The blood actually constricts the target's body from the inside as it floods through his system; thus, it works even on unbreathing Kindred. Until the target collapses in agony or death throes, this power has no visible effect, and many Assamites prefer it because it leaves no trace of their presence.
+
+System: The Assamite must touch her target prior to using Dagon's Call. Within an hour thereafter, the Assamite may issue the call, though she need not be in the presence or even in the line of sight other target.
+Invoking the power costs one Willpower point. The Assamite's player makes a contested Stamina roll against the target's Stamina; the difficulty of each roll is equal to the opponent's permanent Willpower score. The number of successes the Assamite achieves is the amount of damage, in health levels, the victim suffers. For an additional point of Willpower spent in the next turn, the Assamite may continue using Dagon's Call by engaging in another contested Stamina roll. Damage from Dagon's Call is considered lethal. So long as the Assamite's player continues to spend Willpower, the character may continue rending her opponent from within.
+

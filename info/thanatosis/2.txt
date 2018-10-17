@@ -1,0 +1,8 @@
+THANATOSIS
+
+•• Putrefaction:
+This power allows the character to cause supernaturally rapid decomposition in a living or undead target. The victim loses skin and hair, teeth loosen, blisters and cysts appear, and fungus develops. Needless to say, the psychological impact of this power can be as devastating as the physical.
+
+System: This power first requires that the character touch his intended target. The player then rolls Dexterity + Medicine (difficulty of the target’s Stamina + Fortitude) and spends a blood point. Success inflicts one health level of lethal damage on the target and removes one point of the victim’s Appearance. This Appearance loss returns to the vampire at the rate of one point per night, but is permanent for mortals (though plastic surgery can correct mortal’s physical disfigurement). If a mortal suffers three or more health levels of damage from repeated uses of this power in one scene, gangrene or other ailments may occur.
+This power can also be used on plants, in which case the target becomes blighted and withered. It cannot, however, be used on inanimate objects such as cars or wooden stakes.
+

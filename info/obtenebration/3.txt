@@ -1,0 +1,9 @@
+OBTENEBRATION
+
+••• Arms of the Abyss
+Refining his control over darkness, the Kindred can create prehensile tentacles that emerge from patches of dim lighting. These tentacles may grasp, restrain and constrict foes.
+
+System: The player spends a blood point and makes a simple (never extended) Manipulation + Occult roll (difficulty 7); each success enables the creation of a single tentacle. Each tentacle is six feet long and possesses Strength and Dexterity ratings equal to the invoking vampire's Obtenebration Trait. If the vampire chooses, she may spend a blood point either to increase a single tentacle's Strength or Dexterity by one or to extend its length by six feet. Each tentacle has four health levels (and is affected by fire and sunlight as a vampire) and soaks bashing and lethal damage using the vampire's Stamina + Fortitude. Aggravated damage may not be soaked.
+Tentacles may constrict foes, inflicting Strength +1 lethal damage per turn. Breaking the grasp of a tentacle requires the victim to win a resisted Strength roll against the tentacle (difficulty 6 for both).
+All tentacles need not emanate from the same source - so long as there are multiple patches of suitable darkness, there are sources for the Arms of the Abyss. Controlling the tentacles does not require complete concentration; if the Kindred is not incapacitated or in torpor, she may control tentacles while carrying out other actions.
+

@@ -1,0 +1,16 @@
+QUIETUS
+
+•• Scorpion's Touch
+By changing the properties of her blood, an Assamite may create powerful venom that strips her prey of his resilience. This power is greatly feared by other Kindred, and all manner of hideous tales concerning methods of delivery circulate among trembling coteries. Assamites are known to deliver the poison by coating their weapons with it, blighting their opponents with a touch, or spitting it like a cobra. An apocryphal account speaks of a proud prince who discovered an Assamite plotting her exsanguinations and began to diablerize her would-be assassin. Halfway through the act, she learned that she had ingested a dire quantity of tainted blood and was then unable to resist the weakened hashashiyyin s renewed attack.
+
+System: To convert a bit of her blood to poison, the Assamite's player spends at least one blood point and rolls Willpower (difficulty 6). If this roll is successful, and the Assamite successfully hits (but not necessarily damages) her opponent, the target loses a number of Stamina points equal to the number of blood points converted into poison. The victim may resist the poison with a Stamina + Fortitude roll (difficulty 6); successes achieved on the resistance roll subtract from the Assamite's successes to affect the target. The maximum number of blood points an Assamite may convert at any one time equals her Stamina. The number of successes scored indicates the duration of the Stamina loss.
+
+1 success	    One turn
+2 successes	    One hour
+3 successes	    One day
+4 successes	    One month
+5 successes	    Permanently (though Stamina may be bought back up with XP)
+
+If a mortal's Stamina falls to zero through use of Scorpion's Touch, she becomes terminally ill and loses immunity to diseases, her body succumbing to sickness within the year unless she somehow manages to increase her Stamina again. If a Kindred's Stamina falls to zero, the vampire enters torpor and remains that way until one of her Stamina points returns. If a Kindred is permanently reduced to zero Stamina, she may recover from torpor only through mystical means.
+To afflict her target with the poison, the Assamite must touch her target's flesh or hit that target with something that carries the venom. Many Assamites lubricate their weapons with the excretion, while others pool the toxin in their hands (or fleck their lips with the poison, for a "kiss of death") and press it to their opponents. Weapons so envenomed must be of the melee variety - arrows, sling stones, bullets and the like cannot carry enough of the stuff to do damage, and it drips off in flight. Players whose Assamites wish to spit at their targets must make a Stamina + Athletics roll (difficulty 6). No more than two blood points' worth of poison may be expectorated, and a Kindred may spit a distance of 10 feet for each point of Strength and/or Potence the character possesses. Assamites are immune to their own poison, but not the blood-venom of other Assamites.
+

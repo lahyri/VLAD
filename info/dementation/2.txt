@@ -1,0 +1,13 @@
+DEMENTATION
+
+•• Haunt the Soul
+The vampire may stir the sensory centers of his victim's brain, flooding the victim's senses with visions, sounds, scents or feelings that aren't really there. The images, regardless of the sense to which they appeal, are only fleeting "glimpses," barely perceptible to the victim. The vampire using Dementation cannot control what the victim perceives, but may choose which sense is affected. The "haunting" effects occur mainly when the victim is alone, and mostly at night. They may take the form of the subject's repressed fears, guilty memories, or anything else that the Storyteller finds dramatically appropriate. The effects are never pleasant or unobtrusive, however. The Storyteller should let her imagination run wild when describing these sensory impressions; the victim may well feel as if she is going mad, or as if the world is.
+
+System: The player spends a blood point and rolls Manipulation + Subterfuge (difficulty of his victim's Perception + Self- Control). The number of successes determines the length of the sensory "visitations." The precise effects are up to the Storyteller, though particularly eerie or harrowing apparitions can certainly reduce dice pools for a turn or two after the manifestation.
+
+1 success	    One night
+2 successes	    Two nights
+3 successes	    One week
+4 successes	    One month
+5 successes	    Three months
+6+ successes	One year

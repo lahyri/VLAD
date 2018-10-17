@@ -1,0 +1,10 @@
+DOMINATE
+
+•• Mesmerize
+With this power, a vampire can verbally implant a false thought or hypnotic suggestion in the subject's subconscious mind. Both Kindred and target must be free from distraction, since Mesmerize requires intense concentration and precise wording to he effective. The vampire may activate the imposed thought immediately or establish a stimulus that will trigger it later. The victim must be able to understand the vampire, although the two need to maintain eye contact only as long as it takes to implant the idea.
+Mesmerize allows for anything from simple, precise directives (handing over an item) to complex, highly involved ones (taking notes of someone's habits and relaying that information at an appointed time). A subject can have only one suggestion implanted at any time.
+
+System: The player rolls Manipulation + Leadership (difficulty equal to the target's permanent Willpower). The number of successes determines how well the suggestion takes hold in the victim's subconscious. If the vampire scores one or two successes, the subject cannot be forced to do anything that seems strange to her (she might walk outside, but is unlikely to act like a chicken). At three or four successes, the command is effective unless following it endangers the subject. At five successes or greater, the vampire can implant nearly any sort of command.
+No matter how strong the Kindred's will, his command cannot force the subject to harm herself directly or defy her innate Nature. So, while a vampire who scored five successes could make a 98-pound weakling attack a 300-pound bouncer, he could not make the mortal shoot herself in the head.
+If a vampire tries to Mesmerize a subject before the target fulfills a previously implanted directive, compare the successes rolled to those gained during the implanting of the first suggestion. Whichever roll had the greater number of successes is the command that now lodges in the target'ssubconscious; the other suggestion is wiped clean. If the successes rolled are equal, the newer command supplants the old one.
+

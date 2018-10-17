@@ -1,0 +1,10 @@
+OBFUSCATE
+
+•••• Vanish from the Mind's Eye
+This potent expression of Obfuscate enables the vampire to disappear from plain view. So profound is this vanishing that the immortal can fade away even if he stands directly before someone.
+While the disappearance itself is quietly subtle, its impact on those who see it is anything but. Most kine panic and flee in the aftermath. Especially weak-willed individuals wipe the memory of the Kindred from their minds. Although vampires are not shaken so easily, even Kindred may be momentarily surprised by a sudden vanishing.
+
+System: The player rolls Charisma + Stealth; the difficulty equals the target's Wits + Alertness (use the highest total in the group if the character disappears in front of a crowd). With three or fewer successes, the character fades but does not vanish, becoming an indistinct, ghostlike figure. With more than three, he disappears completely. If the player scores more successes than an observer's Willpower rating, that person forgets that the vampire was there in the first place.
+Tracking the character accurately while he appears ghost-like requires a Perception + Alertness roll (difficulty 8). A successful roll means the individual can interact normally with the vampire (although the immortal looks like a profoundly disturbing ghostly shape). A failed roll results in +2 difficulties (maximum 10) when attempting to act upon, or interact with, the vampire. The Storyteller may call for new observation checks if the vampire moves to an environment in which he's difficult to see (heads into shadows, crosses behind an obstacle, proceeds through a crowd). When fully invisible, the vampire is handled as described under Unseen Presence, above.
+A person subject to the vanishing makes a Wits + Courage roll (mortals at difficulty 9, immortals at difficulty 5). A successful roll means the individual reacts immediately (although after the vampire performs his action for that turn); failure means the person stands uncomprehending for two turns while her mind tries to make sense of what she just experienced.
+

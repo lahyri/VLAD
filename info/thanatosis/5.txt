@@ -1,0 +1,14 @@
+THANATOSIS
+
+••••• Necrosis:
+Although its effects appear similar to those of Putrefaction, the impact of Necrosis on affected characters is much greater. Necrosis causes living (or undead) tissue to decompose and slough off, exposing bones and organs and leaving the victim open to infection.
+
+System: The Samedi must make contact with the victim. The player spends two blood points and rolls Dexterity + Medicine (difficulty of the target’s Stamina + Fortitude). The victim takes a number of health levels of lethal damage equal to the number of successes rolled and suffers additional effects as listed below.
+
+1 success:  No additional effects.
+2 successes:    Lose a point of Appearance.
+3 successes:    Lose a point of Appearance and Dexterity.
+4 successes:    Lose a point of Appearance, Dexterity, and Strength.
+5+ successes:   Lose two points of Appearance and one point of Dexterity and Strength.
+
+Attributes lost in this manner are regained when all damage from the Necrosis attack is healed. If a victim is reduced to zero Strength or Dexterity, he is unable to move except for weak flailing and crawling but may still use Disciplines and spent blood points normally.

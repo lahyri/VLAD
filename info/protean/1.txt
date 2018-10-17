@@ -1,0 +1,7 @@
+PROTEAN
+
+• Witness of Darkness
+The vampire with this ability can see normally in ordinary darkness - even a cloudy, moonless night is as bright as an overcast day to the character. However, the Discipline does cause the character's eyes to glow a visible red, which unnerves most mortals who see it.
+
+System: Activating the Discipline is a free action, but it takes a full turn to take effect. While Witness of Darkness is in effect, the character suffers no dice pool penalties based on ordinary darkness. It is impossible to disguise one's inhuman nature while using this ability. However, while the Discipline is active, the player adds one die to Intimidation dice pools against mortals who are not acquainted with the supernatural.
+

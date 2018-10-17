@@ -1,0 +1,7 @@
+THANATOSIS
+
+• Hag’s Wrinkles:
+The character can expand or contract her skin and the outer layer of fatty tissue that underlies it. This can be used to change the character’s general appearance or to create pockets like a kangaroo’s pouch for the concealment of small objects. This power is most effective when used by characters whose skin condition is already deteriorating, as additional distortion is less likely to be visible. If a character other than a Samedi or Nosferatu uses this power, large wrinkles or bulges may be readily visible in her skin.
+
+System: This power requires one turn to shape the wrinkles and the expenditure of a blood point. If the power is used to distort a character’s features, the Samedi player must roll Stamina + Performance (diff. 8, or 7 if the Secondary Skill: Disguise is substituted for Performance). Success raises the difficulty to visually identify the character by one and lasts for one hour per success rolled. If the character is attempting to hide a small object (a wallet, a letter, a small pistol), the roll and duration are the same, but all rolls made to see if the object is detected (for example, a pat-down search or a security guard’s visual inspection) are at +2 difficulty.
+

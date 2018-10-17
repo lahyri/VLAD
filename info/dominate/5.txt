@@ -1,0 +1,20 @@
+DOMINATE
+
+••••• Possession
+At this level of Dominate, the force of the Kindred's psyche is such that it can utterly supplant the mind of a mortal subject. Speaking isn't required, although the vampire must capture the victim's gaze. During the psychic struggle, the contestants' eyes are locked on one another.
+Once the Kindred crushes the subject's mind, the vampire moves his own consciousness into the victim's body and controls it as easily as he uses his own. The mortal falls into a mental fugue while under possession. She is aware of events only in a distorted, dreamlike fashion. In turn, the vampire's mind focuses entirely on controlling his mortal subject. His immortal body lies in a torpid state, defenseless against any actions made toward it.
+Vampires cannot possess one another in this fashion, as even the weakest Kindred's mind is strong enough to resist such straightforward mental dominance. Only through a blood bond can one vampire control another to this degree.
+
+System: The vampire must completely strip away the target's Willpower prior to possessing her. The player spends a Willpower point, then rolls Charisma + Intimidation, while the subject rolls Willpower in a resisted action (difficulty 7 for both). For each success the vampire obtains over the victim's total, the target loses a point of temporary Willpower. Each success the subject gains over the vampire's total equals another die she adds to her roll on the next turn. It's often only a matter of time before the victim falls under the vampire's power. Only if the attacker botches can the subject escape her fate, since this makes the target permanently immune to any further Dominate attempts by that vampire.
+Once the target loses all her temporary Willpower, her mind is open to the vampire. The vampire rolls Manipulation + Intimidation (difficulty 7) to determine how fully he assumes control of the mortal shell. Similar to the Animalism power Subsume the Spirit, multiple successes allow the character to utilize some mental Disciplines, noted on the chart below.
+
+1 success	Cannot use Disciplines
+2 successes	Can use Auspex
+3 successes	Can also use Dominate, Presence
+4 successes	Can also use Chimerstry, Dementation
+5 successes	Can also use Necromancy, Thaumaturgy
+
+The character may travel as far from his body as he is physically able while possessing the mortal. The vampire may also venture out during the day, albeit in the mortal form. However, the vampire's own body must be awake to do so, requiring a successful roll to remain awake. If the vampire leaves the mortal shell (by choice, if his body falls asleep, through supernatural expulsion, after sustaining significant injury), his consciousness returns to his physical form in an instant.
+Once freed from possession, the mortal regains mental control of herself. This can happen in an instant, or the victim may lie comatose for. days while her psyche copes with the violation.
+The vampire experiences everything the mortal body feels during possession, from pleasure to pain. In fact, any damage the victim's body sustains is also applied to the character's body (although the Kindred may soak as normal). If the mortal dies before the vampire's soul can flee from the body, the character's body falls into torpor. Presumably this is in sympathetic response to the massive trauma of death, although some Kindred believe that the vampire's soul is cast adrift during this time and must find its way back to the body.
+The Kindred can remain in the mortal's body even if his own torpid form is destroyed, though such a pathetic creature is not likely to exist for long. At each sunrise, the vampire must roll Courage (difficulty 8) or be expelled from the body. If forced from the mortal body, the vampire tumbles into the astral plane, his soul permanently lost in the spirit world. Nor may a vampire trapped in a mortal body be "re-Embraced"; if the Embrace occurs to such a creature, he simply meets Final Death.

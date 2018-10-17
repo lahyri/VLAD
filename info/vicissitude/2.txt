@@ -1,0 +1,8 @@
+VICISSITUDE
+
+•• Transmogrify the Mortal Clay (Fleshcraft)
+This power is similar to Malleable Visage, but it allows the Cainite to perform drastic, grotesque alterations on other creatures as well as himself. Only flesh (including muscles, fat and cartilage, but not bone) may be transformed. The power is permanent on mortals, but vampires may spend blood points to heal the transformation.
+
+System: The vampire must grapple or restrain the intended victim, and the player make a successful Dexterity + Body Crafts roll (difficulty variable: 5 for a crude yank-and-tuck; up to 9 for precise transformations under stressful conditions). Increasing anothers appearance is done as described under Malleable Visage. Reducing the ttribute is considerably easier (difficulty 5) though truly inspired disfigurement may require careful work and a higher difficulty. In either case, each success increases or reduces the Attribute by one, though the transmogrifying Cainitemay elect not to use all his successes.
+Players who wish their vampires to heal their disfigurements must spend blood points equal to the total successes, regardless of the total Attribute loss or gain. A vampire may use this power to move clumps of skin, fat and muscle to provide additional padding where needed. For each success scored on a Dexterity + Body Crafts roll (difficulty 8), the vampire may increase the subjects dice pool for soaking attacks by one, at the expense of either a point of strength or a health level, at the vampires choice.
+

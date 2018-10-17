@@ -1,0 +1,6 @@
+DEMENTATION
+
+••• Eyes of Chaos
+This peculiar power allows the vampire to take advantage of the fractured wisdom hidden in insanity. She may scrutinize the "patterns" of a person's soul, the convolutions of a vampire's inner nature, or even random events in nature itself. The Kindred with this power can discern the most well-hidden psychoses, or gain insight into a person's true self. Malkavians with this power often have (or claim to have) knowledge of the moves and countermoves of the great Jyhad.
+
+System: This power allows a vampire to determine a person's true Nature, among other things. The vampire concentrates for a turn, then her player rolls Perception + Occult. The difficulty depends on the intricacy of the pattern. Discerning the Nature of a stranger would be difficulty 9; a casual acquaintance would be an 8, an old friend a 6. The Malkavian could also read the message locked in a coded missive (difficulty 7), or even see the doings of an invisible hand in such events as the pattern of falling leaves (difficulty 6). Almost anything might contain some hidden insight, no matter how trivial or meaningless. The patterns are present in most things, but are often so intricate they can keep a vampire spellbound for hours while she tries to understand their "message."

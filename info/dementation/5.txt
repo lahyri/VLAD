@@ -1,0 +1,12 @@
+DEMENTATION
+
+••••• Howling Lunacy
+The vampire pulls the madness from the deepest recesses of her target's mind, focusing it into an overwhelming wave of insanity. This power has driven countless victims, vampire and mortal alike, to unfortunate ends.
+
+System: The Malkavian must gain her target's undivided attention for at least one full turn to enact this power. The player spends a blood point and rolls Manipulation + Intimidation (difficulty of her victim's Willpower). If successful, the victim is afflicted with five derangements of the Storyteller's choice. The number of successes determines the duration.
+
+1 success	    One turn
+2 successes	    One night
+3 successes	    One week
+4 successes	    One month
+5+ successes	One year

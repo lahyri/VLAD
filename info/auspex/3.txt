@@ -1,0 +1,10 @@
+AUSPEX
+
+••• The Spirit's Touch
+When someone handles an object for any length of time, he leaves a psychic impression on the item. A vampire with this level of Auspex can "read" these sensations, learning who handled the object, when he last held it and what was done with it recently.
+These visions are seldom clear and detailed, registering more like a kind of "psychic snapshot." Still, the Kindred can learn much even from such a glimpse. Although most visions concern the last person to handle the item, a long-time owner leaves a stronger impression than someone who held the object briefly.
+Gleaning information from the spiritual residue requires the vampire to hold the object and enter a shallow trance. She is only marginally aware of her surroundings while using The Spirit's Touch, but a loud noise or jarring physical sensation breaks the trance instantly.
+
+System: The player rolls Perception+Empathy.The difficulty is determined by the age of the impressions and the mental and spiritual strength of the person or event that left them. Sensing information from a pistol used for murder hours ago may require a 5, while learning who owned a set of keys found days ago might be a 9.
+The greater the individual's emotional connection to the object, the stronger the impression he leaves on it - and the more information the Kindred can glean from it. Also, events involving strong emotions (a gift-giving, a torture, a long family history) likewise leave stronger impressions than does short or casual contact. Assume that each success offers one piece of information. While one success tells the character only that "a man held this pocket watch last," three reveal that he was petty, middle-aged and afraid. Four successes discover his name, and five or more reveal his connection to the watch as well as some of the things he did with it in his possession.
+

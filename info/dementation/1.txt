@@ -1,0 +1,13 @@
+DEMENTATION
+
+• Incubus Passion
+The vampire may stir his victim's emotions, either heightening them to a fevered pitch or blunting them until the target is completely desensitized. The Cainite may not choose which emotion is affected; she may only amplify or dull emotions already present in the target. In this way, a vampire can turn mild irritation into frothing rage or dull true love into casual interest.
+
+System: The player rolls Charisma + Empathy (difficulty of the victim's Humanity score). The number of successes determines the duration of the altered state of feeling. Effects of this power might include one- or two-point additions or subtractions to difficulties of frenzy rolls, Virtue rolls, rolls to resist Presence powers, etc.
+
+1 success	    One turn
+2 successes	    One hour
+3 successes	    One night
+4 successes	    One week
+5 successes	    One month
+6+ successes	Three months

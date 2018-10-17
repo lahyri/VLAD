@@ -1,0 +1,8 @@
+THANATOSIS
+
+••• Ashes To Ashes:
+Ashes to Ashes allows the character to transform herself into a thick, sticky powder, about a double handful in volume (what would be left after a cremation). The character takes no damage from sunlight or flames while in this form, and most physical attacks are ineffectual. However, the character is only dimly cognizant of her surroundings while in ash form, and separation of the ashes can prove catastrophe when the Samedi tries to reform.
+
+System: The transformation to ashes requires one turn and the expenditure of two blood points. While the character is in ash form, the player must make a Perception + Alertness roll (difficulty 9) for any scene in which she wishes her character to be aware of her surroundings. Reforming from the heap of ashes takes one turn. If the character is in a confined space (such as an urn), she explodes from it in a suitably dramatic manner as she brings herself back to full size.
+If a Samedi is scattered while in this form, one health level and one blood point are lost for each tenth (roughly) of the character that has been dissipated. Five blood points are required to heal each health level lost in this manner. At the Storyteller’s discretion the Samedi may be missing limbs or vital organs (though never the head or the heart) until the missing health levels are healed.
+

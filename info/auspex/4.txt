@@ -1,0 +1,12 @@
+AUSPEX
+
+•••• Steal Secrets/Telepathy
+The vampire projects a portion other consciousness into a nearby mortal's mind, creating a mental link through which she can communicate wordlessly or even read the target's deepest thoughts. The Kindred "hears" in her own mind the thoughts plucked from a subject as if they were spoken to her.
+This is one of the most potent vampiric abilities, since, given time, a Kindred can learn virtually anything from a subject without him ever knowing. The Tremere and Tzimisce in particular find this power especially useful in gleaning secrets from others, or for directing their mortal followers with silent precision.
+
+System: The player rolls Intelligence+Subterfuge(difficulty of the subject's Willpower). Projecting thoughts into the target's mind requires one success. The subject recognizes that the thoughts come from somewhere other than his own consciousness, although he cannot discern their actual origin.
+To read minds, one success must be rolled for each item of information plucked or each layer of thought pierced. Deep secrets or buried memories are harder to obtain than surface emotions or unspoken comments, requiring five or more successes to access.
+Telepathy does not commonly work upon the undead mind. A character may expend a Willpower point to make the effort, making the roll normally afterward. Likewise, it is equally difficult to read the thoughts of other supernatural creatures.
+Storytellers are encouraged to describe thoughts as flowing streams of impressions and images, rather than as a sequence of prose. Instead of making flat statements like "He's planning on killing his former lover's new boyfriend," say "You see a fleeting series of visions: A couple kissing passionately in a doorway, then the man walking alone at night; you suddenly see your hands, knuckles white, wrapped around a steering wheel, with a figure crossing the street ahead; your heart, mortal now and hammering with panic as you hear the engine rev wildly; and above all, a blazing anger coupled with emotional agony and a panicked fear of loss."
+Such descriptions not only add to the story, they also force the player to decide for herself what her character reads. After all, understanding minds - especially highly emotional or deranged minds - is a difficult and often puzzling task.
+

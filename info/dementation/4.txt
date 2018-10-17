@@ -1,0 +1,7 @@
+DEMENTATION
+
+•••• Silence the Sane Mind
+By merely addressing his victims aloud, the Malkavian can drive targets into fits of blind rage or fear, forcing them to abandon reason and higher thought. Victims are plagued by hallucinations of their subconscious demons, and try to flee or destroy their hidden shames. Tragedy almost always follows in the wake of this power's use, although offending Malkavians often claim that they were merely encouraging people to act "according to their natures." Unfortunately for the vampire concerned, he runs a very real risk of falling prey to his own voice's power.
+
+System: The player spends a blood point and makes a Manipulation + Empathy roll (difficulty 7). One target is affected per success, although all potential victims must be listening to the vampire's voice. Affected victims fly immediately into frenzy or a blind fear like Rotschreck. Kindred or other creatures capable of frenzy, such as Lupines, may make a frenzy check or Rotschreck test (Storyteller's choice as to how they are affected) at +2 difficulty to resist the power. Mortals are automatically affected and don't remember their actions while berserk. The frenzy or fear lasts for a scene, although Vampires and Lupines may test as usual to snap out of it. The vampire using Voice of Madness must also test for frenzy or Rotschreck upon invoking this power, although his difficulty to resist is one lower than normal.
+

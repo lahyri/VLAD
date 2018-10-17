@@ -1,0 +1,14 @@
+OBFUSCATE
+
+••• Mask of 1000 Faces
+The vampire can influence the perception of others, causing them to see someone different from the immortal himself. Although the Kindred's physical form does not change, any observer who cannot sense the truth sees whomever the vampire wishes her to see.
+The vampire must have a firm idea of the visage he wishes to project. The primary decision is whether to create an imaginary face or to superimpose the features of another person. Manufactured features are often more difficult to compose in believable proportions, but such a disguise is easier to maintain than having to impersonate someone else. Of course, things get simpler if the Kindred borrows the face but doesn't bother with the personality.
+
+System: The player rolls Manipulation + Performance (difficulty 7) to determine how well the disguise works. If the character tries to impersonate someone, he must get a good look at the subject before putting on the mask. The Storyteller may raise the difficulty if the character catches only a glimpse. The chart below lists the degrees of success in manufacturing another appearance.
+Actually posing as someone else carries its own problems. The character should know at least basic information about the individual; especially difficult deceptions (fooling a lover or close friend) require at least some familiarity with the target in order to succeed.
+
+1 success	    The vampire retains the same height and build, with a few slight alterations to his basic features. Nosferatu can appear as normal, albeit ugly, mortals.
+2 successes	    He looks unlike himself; people don't easily recognize him or agree about his appearance.
+3 successes	    He looks the way he wants to appear.
+4 successes	    Complete transformation, including gestures, mannerisms, appearance and voice.
+5+ successes	Profound alteration (appear as the opposite sex, a vastly different age, extreme change of size).

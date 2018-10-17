@@ -6,7 +6,6 @@ List Of Disciplines
   - Chimerstry
   - Dementation
   - Fortitude
-  - Necromancy
   - Obfuscate
   - Obtenebration
   - Potence
@@ -15,5 +14,4 @@ List Of Disciplines
   - Quietus
   - Serpentis
   - Thanatosis
-  - Thaumaturgy
   - Vicissitude

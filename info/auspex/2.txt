@@ -1,0 +1,18 @@
+AUSPEX
+
+•• Soulsight/Aura Perception
+Using this power, the vampire can perceive the psychic "auras" that radiate from mortals and supernatural beings alike. These halos comprise a shifting series of colors that take practice to discern with clarity. Even the simplest individual has many shifting hues within his aura; strong emotions predominate, while momentary impressions or deep secrets flash through in streaks and swirls.
+The colors change in sympathy with the subject's emotional state, blending into new tones in a constantly dancing pattern. The stronger the emotions involved, the more intense the hues become. A skilled vampire can learn much from her subject by reading the nuances of color and brilliance in the aura's flow.
+Aside from perceiving emotional states, vampires use Aura Perception to detect supernatural beings. The colors in Kindred auras, while intense, are quite pale; mage auras often flare and crackle with suppressed power; werebeasts have strikingly bright, almost frantic, halos; ghosts have weak auras that flicker fitfully like a dying flame; and faerie creatures' radiance is shot through with rainbow hues.
+
+System: The player rolls Perception+Empathy (difficulty 8); each success indicates how much of the subject's aura the character sees and understands. A botch indicates a false or erroneous interpretation. The Storyteller may wish to make this roll, thus keeping the player in the dark as to just how good (or bad) the character's interpretation is.
+
+1 success	Can distinguish only the shade (pale or bright)
+2 successes	Can distinguish the main color.
+3 successes Can recognize the color patterns.
+4 successes	Can detect subtle shifts.
+5 successes	Can identify mixtures of color and pattern.
+
+The aura-colors-chart offers examples of some common colors and the emotions they reflect.
+The character may view a particular subject's aura only once with any degree of clarity. Any subsequent attempts that result in failure should be considered botches. It is very easy for the character to imagine seeing what she wants to see when judging someone's intentions. After a full month, the character may try again at no penalty.
+It is possible, though difficult, to sense the aura of a being who is otherwise invisible to normal sight.

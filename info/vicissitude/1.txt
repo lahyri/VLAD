@@ -1,0 +1,8 @@
+VICISSITUDE
+
+• Malleable Visage
+A Fiend with this power may alter his own bodily parameters: height, build, voice, facial features, hair and skin tone, among other things. Such changes are cosmetic and minor in scope no more than a foot of height can be gained or lost, for example. He must physically mold the alteration, literally shaping his flesh into the desired result.
+
+System: The player must spend a blood point for each body part to be changed, then roll Intelligence + Body Crafts with a difficulty of 6. To duplicate another person requires a Perception + Body Crafts roll with a difficulty of 8 instead. Five successes are required for a flawless copy; fewer successes leave flaws ranging from minute to glaringly obvious. The player may increase his Cainites Appearance trait with Malleable Visage, but the difficulty of the Intelligence + Body Crafts Roll is 10, and a botch permanently decreases the Attribute.
+For those who do not habitually flesh craft themselves, these changes in Appearance are permanent. To Tzimisce and other rare Vicissitude wielders, Appearance can vary wildly from sunset to dawn. It is limited only by the Cainites imagination and his generational trait limit.
+

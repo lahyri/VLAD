@@ -1,0 +1,10 @@
+OBTENEBRATION
+
+•• Shroud of Night
+The vampire can create a cloud of inky blackness. The cloud completely obscures light and even sound to some extent. Those who have been trapped within it (and survived) describe the cloud as viscous and unnerving. This physical manifestation lends credence to the tales of those Lasombra who claim that the darkness is something other than mere shadow.
+The tenebrous cloud may even move, if the creating Kindred so wishes, though willing this requires complete concentration.
+
+System: The player rolls Manipulation + Occult (difficulty 7). Success on the roll generates darkness roughly 10 feet in diameter, though the amorphous cloud constantly shifts and undulates, sometimes even extending shadowy tendrils. Each additional success doubles the diameter of the cloud (though the vampire may voluntarily reduce the area she wishes to cover). The cloud may be invoked at a distance of up to 50 yards, though creating darkness outside the vampire's line of sight adds two to the difficulty of the roll and requires a blood point's expenditure.
+The tarry mass actually extinguishes light sources it engulfs (with the exception of fire), and muffles sounds to the point of indistinguishability. Those within the cloud lose all sense of sight and feel as though they've been immersed in pitch. Sound also warps and distorts within the cloud. Even those possessed of Heightened Senses or Eyes of the Beast suffer +2 difficulty penalties for most actions. Additionally, being surrounded by the Shroud of Night reduces Stamina-based dice pools by two dice, as the murk smothers and agitates the victims (this effect is not cumulative with Shadow Play). More than one unfortunate mortal has "drowned" in darkness.
+Mortals and animals surrounded by the Shroud of Night must make Courage rolls per Shadow Play, above, or panic and flee.
+

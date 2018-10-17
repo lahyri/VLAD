@@ -1,0 +1,9 @@
+OBFUSCATE
+
+•• Unseen Presence
+With experience, the vampire can move around without being seen. Shadows seem to shift to cover him, and others automatically avert their gaze as he passes by. People move unconsciously to avoid contact with the cloaked creature; those with weak wills may even scurry away from the area in unacknowledged fear. The vampire remains ignored indefinitely unless someone deliberately seeks him out or he inadvertently reveals himself.
+Since the vampire fully retains his physical substance, he must be careful to avoid contact with anything that may disclose his presence (knocking over a vase, bumping into someone). Even a whispered word or the scuffing of a shoe against the floor can be enough to disrupt the power.
+
+System: No roll is necessary to use this power unless the character speaks, attacks or otherwise draws attention to himself. The Storyteller should call for a Wits + Stealth roll under any circumstances that might cause the character to reveal himself. The difficulty of the roll depends on the situation; stepping on a squeaky floorboard might be a 5, while walking through a pool of water may require a 9. Other acts may require a certain number of successes; speaking quietly without giving away one's position, for instance, demands at least three successes.
+Some things are beyond the power of Unseen Presence to conceal. Although the character is cloaked from view while he smashes through a window, yells out or throws someone across the room, the vampire becomes visible to all in the aftermath. Bystanders snap out of the subtle fugue in which Obfuscate put them. Worse still, each viewer can make a Wits + Alertness roll (difficulty 7); if successful, the mental haze clears completely, so those individuals recall every move the character made up until then as if he were visible the entire time.
+

@@ -1,0 +1,13 @@
+PRESENCE
+
+••• Entrancement
+This power bends others' emotions, making them the vampire's willing servants. Due to what these individuals see as true and enduring devotion, they heed the vampire's every desire. Since this is done willingly out of love (albeit a perversion of it) instead of through sapping the subjects' wills, these servants retain their creativity and individuality.
+While these obedient minions are more pleasant and spirited than the mind-slaves created by Dominate, they're also somewhat unpredictable. Further, since Entrancement is of a temporary duration, dealing with a lapsed servant can be troublesome. A wise Kindred either disposes of those she entrances after they serve their usefulness, or binds them more securely by a blood bond (made much easier by the minion's willingness to serve).
+
+System: The player rolls Appearance + Empathy (difficulty of the target's permanent Willpower); the number of successes determines how long the subject is entranced (see the chart below). The Storyteller may wish to make the roll instead, since the character is never certain of the strength of her hold on the victim. The vampire may try to keep the subject under her thrall, but can do so only after the initial Entrancement wears off. Attempting this power while Entrancement is already in operation has no effect.
+
+1 success	    One hour
+2 successes	    One day
+3 successes	    One week
+4 successes	    One month
+5 successes	    One year

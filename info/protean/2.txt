@@ -1,0 +1,7 @@
+PROTEAN
+
+•• Talons of the Beast
+A Cainite with Talons of the Beast can extrude wicked claws a few inches long from each fingertip. Despite the power's name, the claws are far more dangerous than those of a mere wolf or bear. They can tear through chain armor and still dig deep into flesh. Wounds inflincted upon mortals by Talons of the Beast never quite heal; Cainites find that vitae alone is insufficient to heal them. Some vampires exhibit other minor changes when activating this power. Eyes might turn a chalky white, blood might seep from the palms, or the character might be unable to keep their fangs retracted.
+
+System: Activating the Discipline is a free action, but it takes a full turn to take effect, and the player must spend one blood point. Wounds inflicted by the Talons of the Beast do Strength + 1 dice of Aggravated damage.
+

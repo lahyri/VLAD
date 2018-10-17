@@ -1,0 +1,19 @@
+DOMINATE
+
+••• The Forgetful Mind
+After capturing the subject's gaze, the vampire delves into the subject's memories, stealing or re-creating them at his whim. The Forgetful Mind does not allow for telepathic contact; the Kindred operates much like a hypnotist, asking directed questions and drawing out answers from the subject. The degree of memory alteration depends on what the vampire desires. He may alter the subject's mind only slightly - quite effective for eliminating memories of the victim meeting or even being fed upon by the vampire - or utterly undo the victim's memories of her past.
+The degree of detail used has a direct bearing on how strongly the new memories take hold, since the victim's subconscious mind resists the alteration the vampire imposes. A simplistic or incomplete false memory ("You went to the movies last night.") crumbles much more quickly than does one with more attention to detail ("You went to the nine o'clock showing of the new Leonardo DiCaprio movie. You thought about getting some popcorn, but the line was too long so you went right into the theater. The couple next to you kept whispering through the film until someone else shushed them. You liked the movie well enough, but the plot seemed weak. You were tired after it ended, so you went home, watched a little late-night television, and went to bed.").
+Even in its simplest applications, The Forgetful Mind requires tremendous skill and finesse. It's a relatively simple matter to rifle through a victim's psyche and rip out the memories of the previous night, without even knowing what the subject did that evening. Doing so leaves a gap in the victim's mind, though, a hole that can give rise to further problems down the road. The Kindred may describe new memories, but these recollections seldom have the same degree of realism that the subject's true thoughts held.
+As such, this power isn't always completely effective. The victim may remember being bitten, but believe it to be an animal attack. Greater memories may return in pieces as dreams, or through sensory triggers like a familiar odor or spoken phrase. Even so, months or years may pass before the subject regains enough other lost memories to make sense of the fragments.
+A vampire can also sense when a subject's memories were altered through use of this power, and even restore them like a hypnotist draws forth psychologically suppressed thoughts. However, the Kindred cannot use The Forgetful Mind to restore his own memories if they were stolen in such a way.
+
+System: The player states what sorts of alteration he wants to perform, then rolls Wits + Subterfuge (difficulty of the target's Willpower score). Any success pacifies the victim for the amount of time it takes the vampire to perform the verbal alteration, provided the vampire does not act aggressively toward the victim. The table below indicates the degree of modification possible to the subject's memory, depending on the number of successes gained. If the successes rolled don't allow for the extent of change the character desired, the Storyteller reduces the resulting impact on the victim's mind.
+
+1 success	    May remove a single memory; lasts one day.
+2 successes	    May remove, but not alter, memory permanently.
+3 successes	    May make slight changes to memory.
+4 successes     May alter or remove entire scene from subject's memory.
+5 successes	    May reconstruct entire periods of subject's life.
+
+To restore removed memories or sense false ones in a subject, the character's Dominate rating must be equal to or higher than that of the vampire who made the alteration. If so, the player must make a Wits + Empathy roll (difficulty equal to the original vampire's permanent Willpower) and score more successes than his predecessor did.
+

@@ -1,0 +1,6 @@
+QUIETUS
+
+••••• Taste of Death
+A refinement of Baal's Caress, Taste of Death allows the Assamite to spit caustic blood at her target. The blood coughed forth with this power burns flesh and corrodes bone; some Assamites have been reported to vomit voluminous streams of vitae that reduce their targets to heaps of sludge.
+
+System: The vampire may spit up to 10 feet for each dot of Strength and/or Potence he possesses. Hitting the target requires a Stamina + Athletics roll (difficulty 6). Each blood point spewed at the target inflicts two dice of aggravated damage, and there is no limit (other than the vampire's capacity and per-turn expenditure maximum) to the quantity of blood with which a target may be deluged.

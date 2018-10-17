@@ -43,3 +43,13 @@ Feel free to use it and modify it as you want. If you'd like to share any new fu
 * Disciplines/Skills/Attributes list
 * Discipline/Skill/Attribute description
 * More stuff I still have to think about
+
+## Developed by
+* [Lahyri Aurbach](https://github.com/lahyri)
+
+## Special Thanks
+* [bwmarrin](https://github.com/bwmarrin) for his wonderful [DiscordGo](https://github.com/bwmarrin/discordgo) bindings
+* My RPG group for inspiring me to create this
+* The guys from White Wolf and the World of Darkness for creating such an amazing RPG system
+
+##### Carpe Noctem
