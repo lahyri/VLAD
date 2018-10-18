@@ -16,7 +16,7 @@ And your own version of VLAD is ready to roll.
 
 ### Observation
 
-Since I'm not planning to host this permanently, You'll have to [create your own bot account](https://discordpy.readthedocs.io/en/rewrite/discord.html), save the generated token to a "token.txt" file in the main directory an run the project everytime you want to use it.
+Since I'm not planning to host this permanently, You'll have to [create your own bot account](https://discordpy.readthedocs.io/en/rewrite/discord.html), save the generated token to a "token.txt" file in the main directory and run the project everytime you want to use it.
 
 ## Running
 
