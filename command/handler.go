@@ -30,7 +30,7 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 			}
 
 			if err1 == nil {
-				VampireRoll(n, d, s, m)
+				vampireRoll(n, d, s, m)
 			}
 
 		case "dndr":
@@ -42,10 +42,10 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 			}
 
 			if err1 == nil && err2 == nil {
-				DnDRoll(n, d, b, s, m)
+				dndRoll(n, d, b, s, m)
 			}
 		case "help":
-			Help(s, m)
+			help(s, m)
 
 		case "discipline":
 			l := 0
@@ -57,7 +57,7 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 				}
 			}
 
-			Discipline(d, l, s, m)
+			discipline(d, l, s, m)
 		}
 
 	}

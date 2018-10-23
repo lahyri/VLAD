@@ -8,7 +8,8 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-func Help(s *discordgo.Session, m *discordgo.MessageCreate) {
+//help - displays the command list
+func help(s *discordgo.Session, m *discordgo.MessageCreate) {
 	path, _ := os.Getwd()
 	path += "/info/help.txt"
 
