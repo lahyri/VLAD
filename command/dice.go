@@ -53,17 +53,18 @@ func VampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
 func DnDRoll(n, d, b int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	result := "Rolled: ["
 	total := b
-	for i := 0; i < n; i++ {
+	for i := 0; i < n-1; i++ {
 		val := rand.Intn(d) + 1
-		if i == n-1 {
-			result += strconv.Itoa(val)
-		} else {
-			result += strconv.Itoa(val) + ", "
-		}
+		result += strconv.Itoa(val) + ", "
 		total += val
 	}
-	if b >= 0 {
+	val := rand.Intn(d) + 1
+	result += strconv.Itoa(val)
+	total += val
+	if b > 0 {
 		result += "] +" + strconv.Itoa(b)
+	} else if b == 0 {
+		result += "]"
 	} else {
 		result += "] " + strconv.Itoa(b)
 	}
