@@ -9,8 +9,8 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-//discipline - Sends the description of the determinated discipline in the specified level. If called without parameters, returns a list with all the disciplines
-func discipline(discipline string, level int, s *discordgo.Session, m *discordgo.MessageCreate) {
+//Discipline - Sends the description of the determinated discipline in the specified level. If called without parameters, returns a list with all the disciplines
+func Discipline(discipline string, level int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	path, _ := os.Getwd()
 	path += "/info/"
 	if discipline == "disciplines" {

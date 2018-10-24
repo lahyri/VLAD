@@ -1,14 +1,16 @@
-package command
+package main
 
 import (
 	"strconv"
 	"strings"
 
+	"github.com/lahyri/VLAD/command"
+
 	"github.com/bwmarrin/discordgo"
 )
 
-// This function will be called (due to AddHandler above) every time a new
-// message is created on any channel that the autenticated bot has access to.
+// CommandHandler - This function will be called (due to AddHandler in main.go) every time
+// a new message is created on any channel that the autenticated bot has access to.
 func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 
 	// Ignore all messages created by the bot itself
@@ -30,7 +32,7 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 			}
 
 			if err1 == nil {
-				vampireRoll(n, d, s, m)
+				command.VampireRoll(n, d, s, m)
 			}
 
 		case "dndr":
@@ -42,10 +44,10 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 			}
 
 			if err1 == nil && err2 == nil {
-				dndRoll(n, d, b, s, m)
+				command.DnDRoll(n, d, b, s, m)
 			}
 		case "help":
-			help(s, m)
+			command.Help(s, m)
 
 		case "discipline":
 			l := 0
@@ -57,7 +59,7 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 				}
 			}
 
-			discipline(d, l, s, m)
+			command.Discipline(d, l, s, m)
 		}
 
 	}

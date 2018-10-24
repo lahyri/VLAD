@@ -7,8 +7,8 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-//vampireRoll - Generates n d10 rolls and compares them to the difficulty
-func vampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
+//VampireRoll - Generates n d10 rolls and compares them to the difficulty
+func VampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	result := "Rolled: ["
 	success := 0
 	critFailure := false
@@ -49,8 +49,8 @@ func vampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	}
 }
 
-//dndRoll - Rolls n d-sided dices, sums them all with b bonus
-func dndRoll(n, d, b int, s *discordgo.Session, m *discordgo.MessageCreate) {
+//DnDRoll - Rolls n d-sided dices, sums them all with b bonus
+func DnDRoll(n, d, b int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	result := "Rolled: ["
 	total := b
 	for i := 0; i < n-1; i++ {
