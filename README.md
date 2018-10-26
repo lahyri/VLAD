@@ -8,7 +8,7 @@ To install VLAD in your Discord Server you'll need the following:
 * [Golang](https://golang.org/)
 * [Discord](https://discordapp.com/) (duuh)
 
-After that, you should run the following command:
+After that, you should clone this repository and run the following command:
 ```
 $go get github.com/bwmarrin/discordgo
 ```
