@@ -8,6 +8,7 @@ import (
 	"syscall"
 
 	"github.com/bwmarrin/discordgo"
+	"github.com/lahyri/VLAD/handler"
 )
 
 func main() {
@@ -23,7 +24,7 @@ func main() {
 	}
 
 	// Register the messageCreate func as a callback for MessageCreate events.
-	dg.AddHandler(CommandHandler)
+	dg.AddHandler(handler.CommandHandler)
 
 	// Open a websocket connection to Discord and begin listening.
 	err = dg.Open()
