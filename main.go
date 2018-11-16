@@ -9,12 +9,14 @@ import (
 
 	"github.com/bwmarrin/discordgo"
 	"github.com/lahyri/VLAD/handler"
+	"github.com/subosito/gotenv"
 )
-
+func init(){
+	gotenv.Load()
+}
 func main() {
 	//Your Discord Token
-	coreToken, _ := ioutil.ReadFile("token.txt")
-	Token := "Bot " + string(coreToken)
+	Token := os.Getenv("BOT_TOKEN")
 
 	// Create a new Discord session using the provided bot token.
 	dg, err := discordgo.New(Token)
