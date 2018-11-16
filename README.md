@@ -1,5 +1,5 @@
 # VLAD
-### Vampire Automated Log for Discord
+### Vampire Log Automated for Discord
 
 ## Installing
 
