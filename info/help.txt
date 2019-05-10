@@ -1,4 +1,4 @@
-The Vampire Automated Log for Discord (A.K.A. VLAD) is a Vampire the Masquerade companion that aims to help your roleplay.
+The Vampire Log Automated for Discord (A.K.A. VLAD) is a Vampire the Masquerade companion that aims to help your roleplay.
 
 --- Commands ---
     -- !help            - list all the commands this bot has

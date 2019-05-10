@@ -10,7 +10,8 @@ import (
 	"github.com/lahyri/VLAD/handler"
 	"github.com/subosito/gotenv"
 )
-func init(){
+
+func init() {
 	gotenv.Load()
 }
 func main() {
