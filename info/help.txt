@@ -2,8 +2,7 @@ The Vampire Log Automated for Discord (A.K.A. VLAD) is a Vampire the Masquerade 
 
 --- Commands ---
     -- !help            - list all the commands this bot has
-    -- !vr N D          - generates N random rolls of a d10 and compares them to the difficulty D, returning the result of the test
-    -- !dndr N X B      - generates N random rolls of a X-sided dice and adds the bonus b to the sum of the results (NdX + B)
+    -- !r N D          - generates N random rolls of a d10 and compares them to the difficulty D, returning the result of the test
     -- !discipline D L  - Sends the description of the determinated D discipline in the L level. If called without parameters, returns a list with all the disciplines.
 
 Carpe Noctem!

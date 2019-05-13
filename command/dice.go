@@ -7,8 +7,8 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-//VampireRoll - Generates n d10 rolls and compares them to the difficulty
-func VampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
+//Roll - Generates n d10 rolls and compares them to the difficulty
+func Roll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	result := "Rolled: ["
 	success := 0
 	critFailure := false
@@ -47,28 +47,4 @@ func VampireRoll(n, d int, s *discordgo.Session, m *discordgo.MessageCreate) {
 	} else {
 		s.ChannelMessageSend(m.ChannelID, "You've failed.")
 	}
-}
-
-//DnDRoll - Rolls n d-sided dices, sums them all with b bonus
-func DnDRoll(n, d, b int, s *discordgo.Session, m *discordgo.MessageCreate) {
-	result := "Rolled: ["
-	total := b
-	for i := 0; i < n-1; i++ {
-		val := rand.Intn(d) + 1
-		result += strconv.Itoa(val) + ", "
-		total += val
-	}
-	val := rand.Intn(d) + 1
-	result += strconv.Itoa(val)
-	total += val
-	if b > 0 {
-		result += "] +" + strconv.Itoa(b)
-	} else if b == 0 {
-		result += "]"
-	} else {
-		result += "] " + strconv.Itoa(b)
-	}
-
-	result += " = " + strconv.Itoa(total)
-	s.ChannelMessageSend(m.ChannelID, result)
 }

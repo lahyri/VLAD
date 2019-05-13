@@ -23,28 +23,17 @@ func CommandHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 		method := fullCommand[0][1:]
 
 		switch method {
-		case "vr":
-			n, err1 := strconv.Atoi(fullCommand[1])
+		case "r":
+			n, err := strconv.Atoi(fullCommand[1])
 			d := 0
 			if len(fullCommand) >= 3 {
 				d, _ = strconv.Atoi(fullCommand[2])
 			}
 
-			if err1 == nil {
-				command.VampireRoll(n, d, s, m)
+			if err == nil {
+				command.Roll(n, d, s, m)
 			}
 
-		case "dndr":
-			n, err1 := strconv.Atoi(fullCommand[1])
-			d, err2 := strconv.Atoi(fullCommand[2])
-			b := 0
-			if len(fullCommand) >= 4 {
-				b, _ = strconv.Atoi(fullCommand[3])
-			}
-
-			if err1 == nil && err2 == nil {
-				command.DnDRoll(n, d, b, s, m)
-			}
 		case "help":
 			command.Help(s, m)
 
